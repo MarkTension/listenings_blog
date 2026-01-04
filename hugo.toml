@@ -1,4 +1,4 @@
-baseURL = 'https://listenings.nl/'
+baseURL = 'https://www.listenings.nl/'
 languageCode = 'en-us'
 title = 'Listenings music blog'
 theme = 'ananke'
