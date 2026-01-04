@@ -1,9 +1,21 @@
 baseURL = 'https://www.listenings.nl/'
 languageCode = 'en-us'
-title = 'Listenings music blog'
+title = 'Listenings'
 theme = 'ananke'
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
+[[menu.main]]
+    name = "Manifesto"
+    url = "/manifesto/"
+    weight = 10
+
+[[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+
+[markup.goldmark.renderer]
+unsafe = true

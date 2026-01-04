@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Manifesto"
 description = "About Listenings"
 +++
 Good Music, headphones, and a 40 minute oasis of time can be a damn fine experience. How often does that really happen though? ThE GRRrrRiiind is a real thing…. Wouldn’t it be nice to claim back some time and space to give new music a place? There are too many good albums out there to be left undiscovered.

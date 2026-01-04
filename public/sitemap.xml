@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.listenings.nl/posts/</loc>
+    <loc>https://www.listenings.nl/</loc>
     <lastmod>2026-01-04T17:41:09+01:00</lastmod>
   </url><url>
-    <loc>https://www.listenings.nl/</loc>
+    <loc>https://www.listenings.nl/posts/</loc>
     <lastmod>2026-01-04T17:41:09+01:00</lastmod>
   </url><url>
     <loc>https://www.listenings.nl/posts/my-first-post/</loc>
     <lastmod>2026-01-04T17:41:09+01:00</lastmod>
   </url><url>
-    <loc>https://www.listenings.nl/about/</loc>
-  </url><url>
     <loc>https://www.listenings.nl/categories/</loc>
+  </url><url>
+    <loc>https://www.listenings.nl/manifesto/</loc>
   </url><url>
     <loc>https://www.listenings.nl/tags/</loc>
   </url>

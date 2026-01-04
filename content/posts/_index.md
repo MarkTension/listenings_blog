@@ -3,7 +3,9 @@ title = "Listenings"
 description = "A bi-weekly music album recommendation newsletter and blog"
 +++
 
-# Welcome to Listenings
+# O'Howdy!
+Enter email for bi-weekly album recommendations!
 
-Your bi-weekly album recommendation!
-Got a friend who needs Listenings? [Sign up](https://gardenwalkrecords.nl/#/listenings)!
+{{< mailchimp >}}
+
+<img src="/images/cacti_sq.jpeg" alt="cacti" style="max-width: 300px; height: auto; display: block; margin: 0 auto;">
