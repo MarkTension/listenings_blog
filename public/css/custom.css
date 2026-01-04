@@ -44,3 +44,29 @@ a:hover {
 }
  */
 
+ul {
+  text-align: left !important;
+  margin-left: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+li {
+  text-align: left !important;
+}
+
+article {
+  text-align: left !important;
+}
+
+
+body {
+  text-align: left !important;
+}
+
+/* h1, h2, h3, h4, h5, h6 {
+  text-align: left !important;
+} */
+
+p {
+  text-align: left !important;
+}

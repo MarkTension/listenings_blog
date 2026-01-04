@@ -13,9 +13,12 @@ theme = 'ananke'
     weight = 10
 
 [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Archive"
+    url = "/archive/"
     weight = 20
+
+[params]
+mainSections = ["archive"]
 
 [markup.goldmark.renderer]
 unsafe = true
