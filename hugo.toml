@@ -1,0 +1,9 @@
+baseURL = 'https://listenings.nl/'
+languageCode = 'en-us'
+title = 'Listenings music blog'
+theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
