@@ -1,6 +1,6 @@
 +++
 title = "Listenings"
-description = "A bi-weekly music album recommendation newsletter and blog"
+description = "A bi-weekly music album recommendation newsletter"
 +++
 
 # O'Howdy!
