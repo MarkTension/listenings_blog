@@ -18,7 +18,11 @@ theme = 'ananke'
     weight = 20
 
 [params]
-mainSections = ["archive"]
+    mainSections = ["archive"]
+    text_summary_length = 200
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[taxonomies]
+  author = "author"

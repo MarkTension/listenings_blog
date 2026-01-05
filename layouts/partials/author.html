@@ -1,0 +1,5 @@
+{{ with .Params.author }}
+  <div class="author-info">
+    Written by: <a href="/author/{{ . | urlize }}/">{{ . }}</a>
+  </div>
+{{ end }}

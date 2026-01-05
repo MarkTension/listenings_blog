@@ -2,20 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/archive/</loc>
+    <loc>http://localhost:1313/author/</loc>
     <lastmod>2026-01-01T13:26:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/billie-marten-dog-eared/</loc>
     <lastmod>2026-01-01T13:26:00-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/author/camiel/</loc>
+    <lastmod>2026-01-01T13:26:00-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-01T13:26:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archive/</loc>
     <lastmod>2026-01-01T13:26:00-08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/g%C3%A1bor-szab%C3%B3-1969/</loc>
     <lastmod>2025-11-25T11:03:00-08:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/author/stef/</loc>
+    <lastmod>2025-11-25T11:03:00-08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/archive/headache-thank-you-for-almost-everything/</loc>
     <lastmod>2025-11-15T00:26:00-08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/author/mark/</loc>
+    <lastmod>2025-11-01T02:32:00-07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archive/ys-burn/</loc>
     <lastmod>2025-11-01T02:32:00-07:00</lastmod>
@@ -146,10 +158,6 @@
     <loc>http://localhost:1313/archive/hello/</loc>
     <lastmod>2024-01-01T02:32:00-08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
     <loc>http://localhost:1313/manifesto/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
