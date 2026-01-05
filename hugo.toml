@@ -14,12 +14,18 @@ theme = 'ananke'
 
 [[menu.main]]
     name = "Archive"
-    url = "/archive/"
+    url = "/posts/"
     weight = 20
 
+[[menu.main]]
+    name = "Authors"
+    url = "/author/"
+    weight = 30
+    
 [params]
-    mainSections = ["archive"]
+    mainSections = ["posts"]
     text_summary_length = 200
+
 
 [markup.goldmark.renderer]
 unsafe = true
