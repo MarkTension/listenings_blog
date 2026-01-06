@@ -2,17 +2,19 @@
 title = "Manifesto"
 +++
 
-Good Music, headphones, and a 40 minute oasis of time can be a damn fine experience. How often does that really happen though? ThE GRRrrRiiind is a real thing…. Wouldn’t it be nice to claim back some time and space to give new music a place? There are too many good albums out there to be left undiscovered.
+## The concept
+
+Good Music, headphones, and a 40 minute oasis of time can be a damn fine experience. How often does that really happen though? ThE GRRrrRiiind is a real thing….
+Wouldn’t it be nice to claim back some time and space and give new music discovery a more dedicated place? There are too many good albums out there to be left undiscovered. 
 
 Over a morning burrito and black coffee, we tried to come up with ways to make exploring good music part of our week. We thought of this:
 
-What if we give you an incentive for fully immersing yourself in an album by sending you a bi-weekly newsletter with a chosen album, carefully selected and accompanied by a motivation on why this album deserves some focussed listening. To stay motivated, we hope to do this with a bunch of people, united under the bi-weekly newsletter.
+What if we give you an incentive for fully immersing yourself in an album by sending you a bi-weekly newsletter with a chosen album, carefully selected and accompanied by a motivation or an anecdote on why this album deserves some focussed listening. To stay motivated, we hope to do this with a bunch of people, united under the bi-weekly newsletter.
 
 ## How it works:
 
 - Subscribe if you haven't already
 - Every other week, you’ll receive the album via email
-- Block time in your agenda
 - Listen to the album (doing little else)
 - Reply to the email with anything you want to share about the album (optional)
 - For the next mailing, we might select a few comments that will appear as an afterthought to the previous album. 
@@ -23,7 +25,9 @@ Wanna join? Subscribe to the weekly-listenings email
 {{< mailchimp >}}
 
 ## Who are we?
-We are a 4 friends based in Amsterdam and Stockholm who love music. This newsletter/blog is partly an exercise for ourselves to engage more deeply with music: To listen more deeply, but also to reflect on what it means to us by writing about it. We hope to start a little, humble community. And maybe organize some shared listening sessions.
+We are a 4 friends based in Amsterdam and Stockholm who love music. Just regular guys who believe that there's a value in discover something new via recommendations of friends or strangers, instead of consuming what the big corporations put in our feed.
+
+This newsletter/blog is partly an exercise for ourselves to engage more deeply with music: To listen with more intent, but also to reflect on what it means to us by writing about it. We hope to start a little, humble community. And maybe organize some shared listening sessions.
 
 Please reach out if you have anything to share, or any kind of other feedback! our email is albumlistenings[at]gmail.com
 
