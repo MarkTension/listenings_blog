@@ -23,4 +23,7 @@ Wanna join? Subscribe to the weekly-listenings email
 {{< mailchimp >}}
 
 ## Who are we?
-We are a 4 friends based in Amsterdam and Stockholm with a love for music.
+We are a 4 friends based in Amsterdam and Stockholm who love music. This newsletter/blog is partly an exercise for ourselves to engage more deeply with music: To listen more deeply, but also to reflect on what it means to us by writing about it. We hope to start a little, humble community. And maybe organize some shared listening sessions.
+
+Please reach out if you have anything to share, or any kind of other feedback! our email is albumlistenings[at]gmail.com
+
