@@ -2,6 +2,7 @@ baseURL = 'https://www.listenings.nl/'
 languageCode = 'en-us'
 title = 'Listenings'
 theme = 'ananke'
+googleAnalytics = 'G-TLSDKGX71H'
 
 [caches]
   [caches.images]
@@ -32,3 +33,5 @@ unsafe = true
 
 [taxonomies]
   author = "author"
+
+
