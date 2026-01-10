@@ -12,7 +12,9 @@ article {
 main {
 
     /* background-color: rgb(228, 182, 156) */
-    background-color: rgb(48, 81, 59)
+    /* background-color: rgb(48, 81, 59) */
+    /* background-color: rgb(105, 105, 105) */
+    background-color: rgb(71, 71, 71)
 
 }
 
@@ -30,6 +32,12 @@ main {
 }
 article {
     padding: 2em;
+    background-color: rgb(207, 207, 207);
+}
+
+.w-100.w-30-l {
+    background-color: rgb(207, 207, 207);
+
 }
 
 /* Proper Image Scaling */
