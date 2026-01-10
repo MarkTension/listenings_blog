@@ -3,6 +3,7 @@ date = '2024-06-15T00:59:00-07:00'
 draft = false
 title = " Shabason, Krgovich, Sage"
 
+author = 'Mark'
 +++
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTg61ufuLojuCTQVOsOLM2cpx_zd98hf42XLaF4w69m_s3SbabgZu_1bv6H6TckfQd80pQWhGlWewLgBD13BOxf6POudCqQ1v6Sd7bdAwadgWyvCIlzdvAZpcoTQjQqheWIhcXuQicaITr7d_e71DrA5qZDOkK1hJ33Mwn9Ldr5WcUAXzi2IqM3cL6JXJU/s320/shabbbb.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTg61ufuLojuCTQVOsOLM2cpx_zd98hf42XLaF4w69m_s3SbabgZu_1bv6H6TckfQd80pQWhGlWewLgBD13BOxf6POudCqQ1v6Sd7bdAwadgWyvCIlzdvAZpcoTQjQqheWIhcXuQicaITr7d_e71DrA5qZDOkK1hJ33Mwn9Ldr5WcUAXzi2IqM3cL6JXJU/s700/shabbbb.jpg)

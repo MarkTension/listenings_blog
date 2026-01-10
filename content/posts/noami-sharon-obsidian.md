@@ -3,6 +3,7 @@ date = '2024-07-14T02:19:00-07:00'
 draft = false
 title = "Noami Sharon - Obsidian"
 
+author = 'Stef'
 +++
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9wHup1vAu-JfpyUpCHOZ4W6brWzFaZRoaBNjwTWvyfoZk8BcblgYb2tEJJf1o7bol5rHc_yCvwMXUSxmbobgW47UkcEOlqdkfmsscfwGggLjx6XCINeuiQqp4l_UaZf_wAfj-Hd802QJqTnEQ0j9mkbI0r_M2E7ikcs3Jw8Sc0iuH-01r1qSiqsMGAS7W/s320/872f5198474cf5040bd59772e5ea057c.1000x1000x1.jpg)](https://open.spotify.com/album/4545KLMxMvi6RBnNRe58t6?si=6okS2eXSRPuCodK_qtinmg)

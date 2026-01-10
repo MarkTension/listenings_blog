@@ -3,6 +3,7 @@ date = '2024-02-19T02:25:00-08:00'
 draft = false
 title = "Linda Perhacs – Parallelograms (1970)"
 
+author = 'Camiel'
 +++
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7_1Kr09kDpczLqegxZvgsNDBncGeBbEACuIyg4I2nb9Kbp7yYObvBRl5OiYliHeHzBpIKvzXaobCsyvB4KGTCHEtjt4mdhw9Xxcml3GUY5ZaB3cRLKxflTbR1KIGkZDMzew853MWyogMuuHXXulrxms8g1Y7J-JNNwpXN7krw2A-0wMDynK0oKJTBlhu/w316-h320/parallel.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu7_1Kr09kDpczLqegxZvgsNDBncGeBbEACuIyg4I2nb9Kbp7yYObvBRl5OiYliHeHzBpIKvzXaobCsyvB4KGTCHEtjt4mdhw9Xxcml3GUY5ZaB3cRLKxflTbR1KIGkZDMzew853MWyogMuuHXXulrxms8g1Y7J-JNNwpXN7krw2A-0wMDynK0oKJTBlhu/s557/parallel.jpg)  

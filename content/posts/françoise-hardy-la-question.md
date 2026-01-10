@@ -3,6 +3,7 @@ date = '2024-06-29T03:12:00-07:00'
 draft = false
 title = "Françoise Hardy - La Question"
 
+author = 'Camiel'
 +++
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijCgnhH7Kj6n9vuCuVWgNzXTca9P-sjPaGH_IHtx2o_LWidV7qwgJGdP0_JYe-L7E8EScERz8eSpIwokSeSGJ-L58-v4bFPEPCSDGQwlLWhEqxMGceqTmrvEF5GPkr-6kdW767gxA-u_O5-DoZZBBc26TKmEHQiWb4Vvtj89fbF-qPh6Mzi_fBXtI3Xovy/w320-h320/hardy.jpg)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijCgnhH7Kj6n9vuCuVWgNzXTca9P-sjPaGH_IHtx2o_LWidV7qwgJGdP0_JYe-L7E8EScERz8eSpIwokSeSGJ-L58-v4bFPEPCSDGQwlLWhEqxMGceqTmrvEF5GPkr-6kdW767gxA-u_O5-DoZZBBc26TKmEHQiWb4Vvtj89fbF-qPh6Mzi_fBXtI3Xovy/s550/hardy.jpg)
