@@ -2,108 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mark on Listenings</title>
-    <link>https://www.listenings.nl/author/mark/</link>
+    <link>http://localhost:1313/author/mark/</link>
     <description>Recent content in Mark on Listenings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Nov 2025 02:32:00 -0700</lastBuildDate>
-    <atom:link href="https://www.listenings.nl/author/mark/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/author/mark/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>YS - Burn</title>
-      <link>https://www.listenings.nl/posts/ys-burn/</link>
+      <link>http://localhost:1313/archive/ys-burn/</link>
       <pubDate>Sat, 01 Nov 2025 02:32:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/ys-burn/</guid>
+      <guid>http://localhost:1313/archive/ys-burn/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a2194365819_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s super cool how this album just came out, but what a time-machine it really is. On the first listen I got transported into my favorite trip-hop-soundtracked 90’s high octane movies.&lt;br&gt;&#xA;The sound is reminiscent of Massive Attack, Board of Canada, Portishead, and some Moby in the mix. Still it&amp;rsquo;s doing its own authentic thing with it. Hope it&amp;rsquo;s a sign that trip-hop is making a comeback!&lt;/p&gt;&#xA;&lt;p&gt;~ Mark&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>YS - Burn</title>
+      <link>http://localhost:1313/posts/ys-burn/</link>
+      <pubDate>Sat, 01 Nov 2025 02:32:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/ys-burn/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a2194365819_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;It’s super cool how this album just came out, but what a time-machine it really is. On the first listen I got transported into my favorite trip-hop-soundtracked 90’s high octane movies.&lt;br&gt;&#xA;The sound is reminiscent of Massive Attack, Board of Canada, Portishead, and some Moby in the mix. Still it&amp;rsquo;s doing its own authentic thing with it. Hope it&amp;rsquo;s a sign that trip-hop is making a comeback!&lt;/p&gt;&#xA;&lt;p&gt;~ Mark&lt;/p&gt;</description>
     </item>
     <item>
       <title>Huerco S. - For Those Of You Who Have Never (And Also Those Who Have)</title>
-      <link>https://www.listenings.nl/posts/huerco-s-for-those-of-you-who-have-never-and-also-those-who-have/</link>
+      <link>http://localhost:1313/archive/huerco-s-for-those-of-you-who-have-never-and-also-those-who-have/</link>
       <pubDate>Sat, 27 Sep 2025 00:39:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/huerco-s-for-those-of-you-who-have-never-and-also-those-who-have/</guid>
+      <guid>http://localhost:1313/archive/huerco-s-for-those-of-you-who-have-never-and-also-those-who-have/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/3/32/ForThoseOfYou_HurecoS_cover.jpg&#34; alt=&#34;For Those of You Who Have Never (And Also Those Who Have) - Wikipedia&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For almost a month I’ve mainly been listening to &lt;a href=&#34;https://www.youtube.com/driftdeeper&#34;&gt;dub-techno mixes&lt;/a&gt;. They’re great, but also symptomatic of spending too little time to discover new stuff.&lt;/p&gt;&#xA;&lt;p&gt;For the past week though, I’ve been playing this really interesting album “For Those Of You Who Have Never (And Also Those Who Have)” on repeat.&lt;br&gt;&#xA;This album was always half skipped-over when I just discovered the musical corner where ambient / experimental intersects with club music from labels like Peak Oil, West Mineral ltd, 3XL.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Huerco S. - For Those Of You Who Have Never (And Also Those Who Have)</title>
+      <link>http://localhost:1313/posts/huerco-s-for-those-of-you-who-have-never-and-also-those-who-have/</link>
+      <pubDate>Sat, 27 Sep 2025 00:39:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/huerco-s-for-those-of-you-who-have-never-and-also-those-who-have/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/3/32/ForThoseOfYou_HurecoS_cover.jpg&#34; alt=&#34;For Those of You Who Have Never (And Also Those Who Have) - Wikipedia&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For almost a month I’ve mainly been listening to &lt;a href=&#34;https://www.youtube.com/driftdeeper&#34;&gt;dub-techno mixes&lt;/a&gt;. They’re great, but also symptomatic of spending too little time to discover new stuff.&lt;/p&gt;&#xA;&lt;p&gt;For the past week though, I’ve been playing this really interesting album “For Those Of You Who Have Never (And Also Those Who Have)” on repeat.&lt;br&gt;&#xA;This album was always half skipped-over when I just discovered the musical corner where ambient / experimental intersects with club music from labels like Peak Oil, West Mineral ltd, 3XL.&lt;/p&gt;</description>
     </item>
     <item>
       <title>N Kramer &amp; Magnus Bang Olsen - Pastoral Blend</title>
-      <link>https://www.listenings.nl/posts/n-kramer-magnus-bang-olsen-pastoral-blend/</link>
+      <link>http://localhost:1313/archive/n-kramer-magnus-bang-olsen-pastoral-blend/</link>
       <pubDate>Fri, 15 Aug 2025 02:59:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/n-kramer-magnus-bang-olsen-pastoral-blend/</guid>
+      <guid>http://localhost:1313/archive/n-kramer-magnus-bang-olsen-pastoral-blend/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://music-from-memory.bandcamp.com/album/pastoral-blend&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a3051372697_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This album was sent by a friend for its beautiful album cover.&lt;br&gt;&#xA;I agreed; an album cover at its finest.&lt;/p&gt;&#xA;&lt;p&gt;As for the sound: It is warm and organic. The disassembled and smooth slide guitar together with the synths is overwhelmingly peaceful. It sort of meanders. Not in a blissed-out kind of way, but complex, organic, and interesting improvisations.&lt;/p&gt;&#xA;&lt;p&gt;The first time it clicked for me was when reading the most wholesome &lt;a href=&#34;https://www.theatlantic.com/magazine/archive/1910/01/on-dogs-and-men/525495/?gift=PMPZBkWRPNSsRizvt7BIfXReBvLKnhydR3eFK60FU7M&#34;&gt;article&lt;/a&gt; (written in 1910) about the magic of having a dog as companion. This feeling of love in the article showed me it was this same feeling present in the music that made me enjoy it so much. The favorite line was:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>N Kramer &amp; Magnus Bang Olsen - Pastoral Blend</title>
+      <link>http://localhost:1313/posts/n-kramer-magnus-bang-olsen-pastoral-blend/</link>
+      <pubDate>Fri, 15 Aug 2025 02:59:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/n-kramer-magnus-bang-olsen-pastoral-blend/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://music-from-memory.bandcamp.com/album/pastoral-blend&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a3051372697_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This album was sent by a friend for its beautiful album cover.&lt;br&gt;&#xA;I agreed; an album cover at its finest.&lt;/p&gt;&#xA;&lt;p&gt;As for the sound: It is warm and organic. The disassembled and smooth slide guitar together with the synths is overwhelmingly peaceful. It sort of meanders. Not in a blissed-out kind of way, but complex, organic, and interesting improvisations.&lt;/p&gt;&#xA;&lt;p&gt;The first time it clicked for me was when reading the most wholesome &lt;a href=&#34;https://www.theatlantic.com/magazine/archive/1910/01/on-dogs-and-men/525495/?gift=PMPZBkWRPNSsRizvt7BIfXReBvLKnhydR3eFK60FU7M&#34;&gt;article&lt;/a&gt; (written in 1910) about the magic of having a dog as companion. This feeling of love in the article showed me it was this same feeling present in the music that made me enjoy it so much. The favorite line was:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Skee Mask - Compro</title>
-      <link>https://www.listenings.nl/posts/skee-mask-compro/</link>
+      <link>http://localhost:1313/archive/skee-mask-compro/</link>
       <pubDate>Fri, 27 Jun 2025 12:59:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/skee-mask-compro/</guid>
+      <guid>http://localhost:1313/archive/skee-mask-compro/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://iliantape.bandcamp.com/album/itlp04-compro&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a4230057167_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Skee Mask is known for a bunch of amazing releases on Ilian Tape. This is his second album, and it&amp;rsquo;s incredible.&lt;/p&gt;&#xA;&lt;p&gt;The cover says a lot; Misty, obscured, and deep. It&amp;rsquo;s easy to get lost in the sauce with the lush atmospheric sounds. The beats keep things tightly together though. It has a sort of dub-techno, ambient techno feel, but at the same time this meticulous hip-hop style chopped-up beats give it some real magic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Skee Mask - Compro</title>
+      <link>http://localhost:1313/posts/skee-mask-compro/</link>
+      <pubDate>Fri, 27 Jun 2025 12:59:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/skee-mask-compro/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://iliantape.bandcamp.com/album/itlp04-compro&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a4230057167_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Skee Mask is known for a bunch of amazing releases on Ilian Tape. This is his second album, and it&amp;rsquo;s incredible.&lt;/p&gt;&#xA;&lt;p&gt;The cover says a lot; Misty, obscured, and deep. It&amp;rsquo;s easy to get lost in the sauce with the lush atmospheric sounds. The beats keep things tightly together though. It has a sort of dub-techno, ambient techno feel, but at the same time this meticulous hip-hop style chopped-up beats give it some real magic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Andrea - Due In Color</title>
-      <link>https://www.listenings.nl/posts/andrea-due-in-color/</link>
+      <link>http://localhost:1313/archive/andrea-due-in-color/</link>
       <pubDate>Sun, 18 May 2025 00:59:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/andrea-due-in-color/</guid>
+      <guid>http://localhost:1313/archive/andrea-due-in-color/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://iliantape.bandcamp.com/album/itlp14-due-in-color&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a1571559624_16.jpg&#34; alt=&#34;&#34;&gt; &lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;When I first saw the album cover, I remembered taking a similar photo at the exact same place: Joshua Tree Park, Cholla cactus garden. More relevant: I remember driving the long desert road with the car speakers blasting Four Tet’s New Energy.&lt;/p&gt;&#xA;&lt;p&gt;Maybe my mind played tricks on me by associating the images, but I really think the that Due in Color hits that exact same note for me.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Andrea - Due In Color</title>
+      <link>http://localhost:1313/posts/andrea-due-in-color/</link>
+      <pubDate>Sun, 18 May 2025 00:59:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/andrea-due-in-color/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://iliantape.bandcamp.com/album/itlp14-due-in-color&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a1571559624_16.jpg&#34; alt=&#34;&#34;&gt; &lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;When I first saw the album cover, I remembered taking a similar photo at the exact same place: Joshua Tree Park, Cholla cactus garden. More relevant: I remember driving the long desert road with the car speakers blasting Four Tet’s New Energy.&lt;/p&gt;&#xA;&lt;p&gt;Maybe my mind played tricks on me by associating the images, but I really think the that Due in Color hits that exact same note for me.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Florian T M Zeisig - Planet Inc</title>
-      <link>https://www.listenings.nl/posts/florian-t-m-zeisig-planet-inc/</link>
+      <link>http://localhost:1313/archive/florian-t-m-zeisig-planet-inc/</link>
       <pubDate>Sun, 06 Apr 2025 00:56:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/florian-t-m-zeisig-planet-inc/</guid>
+      <guid>http://localhost:1313/archive/florian-t-m-zeisig-planet-inc/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://d1rgjmn2wmqeif.cloudfront.net/r/g/435406.jpg&#34; alt=&#34;Florian T M Zeisig - Planet Inc. Bleep.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For some reason, a couple of mornings ago, I had Planet Inc playing on my iPhone speaker, and forgot all about it while continuing tinkering on a side-project. It was magical. Only when the album finished I realized what a deep trip I was in. Listening to music without knowing that I was, was like my head-space made it by itself. It made me think of the movie Inception; conveying an idea while &amp;lsquo;unconscious&amp;rsquo; can convey the strongest message.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Florian T M Zeisig - Planet Inc</title>
+      <link>http://localhost:1313/posts/florian-t-m-zeisig-planet-inc/</link>
+      <pubDate>Sun, 06 Apr 2025 00:56:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/florian-t-m-zeisig-planet-inc/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://d1rgjmn2wmqeif.cloudfront.net/r/g/435406.jpg&#34; alt=&#34;Florian T M Zeisig - Planet Inc. Bleep.&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;For some reason, a couple of mornings ago, I had Planet Inc playing on my iPhone speaker, and forgot all about it while continuing tinkering on a side-project. It was magical. Only when the album finished I realized what a deep trip I was in. Listening to music without knowing that I was, was like my head-space made it by itself. It made me think of the movie Inception; conveying an idea while &amp;lsquo;unconscious&amp;rsquo; can convey the strongest message.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Downstairs People - DSP</title>
-      <link>https://www.listenings.nl/posts/downstairs-people-dsp/</link>
+      <link>http://localhost:1313/archive/downstairs-people-dsp/</link>
       <pubDate>Sun, 16 Feb 2025 01:39:00 -0800</pubDate>
-      <guid>https://www.listenings.nl/posts/downstairs-people-dsp/</guid>
+      <guid>http://localhost:1313/archive/downstairs-people-dsp/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a0213469481_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Last few days I’ve been compiling a mix-tape for Amsterdam based music platform ‘&lt;a href=&#34;https://soundcloud.com/farblue&#34;&gt;Far Blue&lt;/a&gt;’.&lt;br&gt;&#xA;They operate under this quote and I’m gonna shamelessly CTRL-C+CTRL-V the thing in, because it’s beautiful:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“The world is blue at its edges and in its depths&amp;hellip; For many years I have been moved by the blue at the far edge of what can be seen, that color of horizons, of remote mountain ranges, of anything far away. The color of that distance is the color of an emotion, the color of solitude and of desire, the color of there seen from here, the color of where you are not. And the color of where you can never go. For the blue is not in the place those miles away at the horizon&amp;hellip; Blue is the color of longing for the distances you never arrive in, for the blue world.”&lt;/em&gt;&lt;br&gt;&#xA;- Rebecca Solnit from ‘A Field Guide to Getting Lost’&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Downstairs People - DSP</title>
+      <link>http://localhost:1313/posts/downstairs-people-dsp/</link>
+      <pubDate>Sun, 16 Feb 2025 01:39:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/downstairs-people-dsp/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a0213469481_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Last few days I’ve been compiling a mix-tape for Amsterdam based music platform ‘&lt;a href=&#34;https://soundcloud.com/farblue&#34;&gt;Far Blue&lt;/a&gt;’.&lt;br&gt;&#xA;They operate under this quote and I’m gonna shamelessly CTRL-C+CTRL-V the thing in, because it’s beautiful:&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;“The world is blue at its edges and in its depths&amp;hellip; For many years I have been moved by the blue at the far edge of what can be seen, that color of horizons, of remote mountain ranges, of anything far away. The color of that distance is the color of an emotion, the color of solitude and of desire, the color of there seen from here, the color of where you are not. And the color of where you can never go. For the blue is not in the place those miles away at the horizon&amp;hellip; Blue is the color of longing for the distances you never arrive in, for the blue world.”&lt;/em&gt;&lt;br&gt;&#xA;- Rebecca Solnit from ‘A Field Guide to Getting Lost’&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ike Zwanikken - Greed Gave Me A Lily</title>
-      <link>https://www.listenings.nl/posts/ike-zwanikken-greed-gave-me-a-lily/</link>
+      <link>http://localhost:1313/archive/ike-zwanikken-greed-gave-me-a-lily/</link>
       <pubDate>Sun, 12 Jan 2025 01:59:00 -0800</pubDate>
-      <guid>https://www.listenings.nl/posts/ike-zwanikken-greed-gave-me-a-lily/</guid>
+      <guid>http://localhost:1313/archive/ike-zwanikken-greed-gave-me-a-lily/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a3851090955_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now why I love this album so much might be the same reason as why I&amp;rsquo;m blown away by David Lynch movies; They never fully disclose the situation. There&amp;rsquo;s just a deep unknown with different forces at play, which I&amp;rsquo;ll never understand. I&amp;rsquo;m just somewhere on the surface of it, blissfully being pulled along, meandering between scary / loving / funny.&lt;/p&gt;&#xA;&lt;p&gt;Not that it&amp;rsquo;s the same vibe, but this album does the same thing to me. It&amp;rsquo;s warm, nostalgic, weirdly alien, and then loving. Just new worlds to explore. There&amp;rsquo;s nothing really like it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ike Zwanikken - Greed Gave Me A Lily</title>
+      <link>http://localhost:1313/posts/ike-zwanikken-greed-gave-me-a-lily/</link>
+      <pubDate>Sun, 12 Jan 2025 01:59:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/ike-zwanikken-greed-gave-me-a-lily/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a3851090955_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Now why I love this album so much might be the same reason as why I&amp;rsquo;m blown away by David Lynch movies; They never fully disclose the situation. There&amp;rsquo;s just a deep unknown with different forces at play, which I&amp;rsquo;ll never understand. I&amp;rsquo;m just somewhere on the surface of it, blissfully being pulled along, meandering between scary / loving / funny.&lt;/p&gt;&#xA;&lt;p&gt;Not that it&amp;rsquo;s the same vibe, but this album does the same thing to me. It&amp;rsquo;s warm, nostalgic, weirdly alien, and then loving. Just new worlds to explore. There&amp;rsquo;s nothing really like it.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mr YT - Brand New Day</title>
-      <link>https://www.listenings.nl/posts/mr-yt-brand-new-day/</link>
+      <link>http://localhost:1313/archive/mr-yt-brand-new-day/</link>
       <pubDate>Sun, 01 Dec 2024 02:13:00 -0800</pubDate>
-      <guid>https://www.listenings.nl/posts/mr-yt-brand-new-day/</guid>
+      <guid>http://localhost:1313/archive/mr-yt-brand-new-day/</guid>
+      <description>&lt;h2&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a4250567916_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Today’s listening is Mr YT (Yuji Takenouchi)’s Brand New Day.&lt;/p&gt;&#xA;&lt;p&gt;The first song, ‘Morning’, is just unbelievable. Such a journey. ’Nite’ is a close second. For both it&amp;rsquo;s quite hard to put a finger on which time they really belongs in. Could be because Takenouchi scored some iconic and futuristic video games for Sony, which must&amp;rsquo;ve conjured up otherwordly scenes in his mind on a daily basis.&lt;/p&gt;&#xA;&lt;p&gt;The other songs are cool housey danceable tunes, which hint at the album’s creation time (1997) way better. Also very cool.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mr YT - Brand New Day</title>
+      <link>http://localhost:1313/posts/mr-yt-brand-new-day/</link>
+      <pubDate>Sun, 01 Dec 2024 02:13:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/mr-yt-brand-new-day/</guid>
       <description>&lt;h2&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a4250567916_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Today’s listening is Mr YT (Yuji Takenouchi)’s Brand New Day.&lt;/p&gt;&#xA;&lt;p&gt;The first song, ‘Morning’, is just unbelievable. Such a journey. ’Nite’ is a close second. For both it&amp;rsquo;s quite hard to put a finger on which time they really belongs in. Could be because Takenouchi scored some iconic and futuristic video games for Sony, which must&amp;rsquo;ve conjured up otherwordly scenes in his mind on a daily basis.&lt;/p&gt;&#xA;&lt;p&gt;The other songs are cool housey danceable tunes, which hint at the album’s creation time (1997) way better. Also very cool.&lt;/p&gt;</description>
     </item>
     <item>
       <title>M. Sage - The Wind of Things</title>
-      <link>https://www.listenings.nl/posts/m-sage-the-wind-of-things/</link>
+      <link>http://localhost:1313/archive/m-sage-the-wind-of-things/</link>
       <pubDate>Sat, 19 Oct 2024 13:40:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/m-sage-the-wind-of-things/</guid>
+      <guid>http://localhost:1313/archive/m-sage-the-wind-of-things/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27u26DjLc6ZfM_2nUNCBfCqbR3r40-Pt8aF-GH532auT6EAp7OQdk3msyuqX2uB8CotdA3EFaZ82HbbGi-8fIazzlMAv9z3AX-_74TLPg7RqxI4mzXAS0Ss7tQR_61eROyi6r1iUH7DZVzBIGzOXrIetT8tLi6_orQwwxOX4JwrEKl2QTsY19h8Z7hoBb/s640/thewindofthings.jpg&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27u26DjLc6ZfM_2nUNCBfCqbR3r40-Pt8aF-GH532auT6EAp7OQdk3msyuqX2uB8CotdA3EFaZ82HbbGi-8fIazzlMAv9z3AX-_74TLPg7RqxI4mzXAS0Ss7tQR_61eROyi6r1iUH7DZVzBIGzOXrIetT8tLi6_orQwwxOX4JwrEKl2QTsY19h8Z7hoBb/s320/thewindofthings.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;M. Sage’s The Wind Of Things is an album dear to my heart.&lt;/p&gt;&#xA;&lt;p&gt;I once used it as a soundtrack when reading John Steinbeck’s &lt;em&gt;Travels With Charley&lt;/em&gt; , which is a heartwarming story of John and his dog Charley road-tripping the US in the 60’s. It pairs so well because The Wind of Things is heartwarming as well.&lt;/p&gt;&#xA;&lt;p&gt;The music is a series of ambient soundscapes. And when you think of ambient you can imagine lushy synthesizers and over-exaggerated reverb exploring the ether. That&amp;rsquo;s not the case here though.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>M. Sage - The Wind of Things</title>
+      <link>http://localhost:1313/posts/m-sage-the-wind-of-things/</link>
+      <pubDate>Sat, 19 Oct 2024 13:40:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/m-sage-the-wind-of-things/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27u26DjLc6ZfM_2nUNCBfCqbR3r40-Pt8aF-GH532auT6EAp7OQdk3msyuqX2uB8CotdA3EFaZ82HbbGi-8fIazzlMAv9z3AX-_74TLPg7RqxI4mzXAS0Ss7tQR_61eROyi6r1iUH7DZVzBIGzOXrIetT8tLi6_orQwwxOX4JwrEKl2QTsY19h8Z7hoBb/s640/thewindofthings.jpg&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi27u26DjLc6ZfM_2nUNCBfCqbR3r40-Pt8aF-GH532auT6EAp7OQdk3msyuqX2uB8CotdA3EFaZ82HbbGi-8fIazzlMAv9z3AX-_74TLPg7RqxI4mzXAS0Ss7tQR_61eROyi6r1iUH7DZVzBIGzOXrIetT8tLi6_orQwwxOX4JwrEKl2QTsY19h8Z7hoBb/s320/thewindofthings.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;M. Sage’s The Wind Of Things is an album dear to my heart.&lt;/p&gt;&#xA;&lt;p&gt;I once used it as a soundtrack when reading John Steinbeck’s &lt;em&gt;Travels With Charley&lt;/em&gt; , which is a heartwarming story of John and his dog Charley road-tripping the US in the 60’s. It pairs so well because The Wind of Things is heartwarming as well.&lt;/p&gt;&#xA;&lt;p&gt;The music is a series of ambient soundscapes. And when you think of ambient you can imagine lushy synthesizers and over-exaggerated reverb exploring the ether. That&amp;rsquo;s not the case here though.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Loidis - One Day</title>
-      <link>https://www.listenings.nl/posts/loidis-one-day/</link>
+      <link>http://localhost:1313/archive/loidis-one-day/</link>
       <pubDate>Sun, 08 Sep 2024 00:56:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/loidis-one-day/</guid>
+      <guid>http://localhost:1313/archive/loidis-one-day/</guid>
       <description>&lt;h2&gt;&lt;a href=&#34;https://huercosplonk.bandcamp.com/album/one-day&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a1324216119_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;One Day was released in August, and has succeeded in soundtracking my late-summer.&lt;br&gt;&#xA;It’s been hard to miss in the circles where I browse the web. Likely because I’ve been a fan of the artist’s other alias Huerco S, which created this introspective depth-plunging ambient album, &lt;a href=&#34;https://brianleeds.bandcamp.com/album/for-those-of-you-who-have-never-and-also-those-who-have&#34;&gt;For Those Of You Who Have Never (And Also Those Who Have)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;On &lt;em&gt;One Day&lt;/em&gt; , the ambient makes place for house-y grooves, but the ambient remains in its undercurrents. It has this four-to-the-floor beat, and characteristic house sounds, but those are the only genre-conform aspects of it. Ive read it being called Outsider House.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Loidis - One Day</title>
+      <link>http://localhost:1313/posts/loidis-one-day/</link>
+      <pubDate>Sun, 08 Sep 2024 00:56:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/loidis-one-day/</guid>
+      <description>&lt;h2&gt;&lt;a href=&#34;https://huercosplonk.bandcamp.com/album/one-day&#34;&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a1324216119_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;One Day was released in August, and has succeeded in soundtracking my late-summer.&lt;br&gt;&#xA;It’s been hard to miss in the circles where I browse the web. Likely because I’ve been a fan of the artist’s other alias Huerco S, which created this introspective depth-plunging ambient album, &lt;a href=&#34;https://brianleeds.bandcamp.com/album/for-those-of-you-who-have-never-and-also-those-who-have&#34;&gt;For Those Of You Who Have Never (And Also Those Who Have)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;On &lt;em&gt;One Day&lt;/em&gt; , the ambient makes place for house-y grooves, but the ambient remains in its undercurrents. It has this four-to-the-floor beat, and characteristic house sounds, but those are the only genre-conform aspects of it. Ive read it being called Outsider House.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> Shabason, Krgovich, Sage</title>
+      <link>http://localhost:1313/archive/shabason-krgovich-sage/</link>
+      <pubDate>Sat, 15 Jun 2024 00:59:00 -0700</pubDate>
+      <guid>http://localhost:1313/archive/shabason-krgovich-sage/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTg61ufuLojuCTQVOsOLM2cpx_zd98hf42XLaF4w69m_s3SbabgZu_1bv6H6TckfQd80pQWhGlWewLgBD13BOxf6POudCqQ1v6Sd7bdAwadgWyvCIlzdvAZpcoTQjQqheWIhcXuQicaITr7d_e71DrA5qZDOkK1hJ33Mwn9Ldr5WcUAXzi2IqM3cL6JXJU/s700/shabbbb.jpg&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTg61ufuLojuCTQVOsOLM2cpx_zd98hf42XLaF4w69m_s3SbabgZu_1bv6H6TckfQd80pQWhGlWewLgBD13BOxf6POudCqQ1v6Sd7bdAwadgWyvCIlzdvAZpcoTQjQqheWIhcXuQicaITr7d_e71DrA5qZDOkK1hJ33Mwn9Ldr5WcUAXzi2IqM3cL6JXJU/s320/shabbbb.jpg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;I haven’t just streamed, but always felt a deep urge to buy almost every release with Joseph Shabason on it. He makes this instrumental, organic, murky, emotionally complex, psychedelic music.&lt;br&gt;&#xA;Not so easy to describe, but his signature is his saxophone sound that doesn’t really sound like saxophone at all, and combined with these smooth 90’s keyboard sounds.&lt;/p&gt;&#xA;&lt;p&gt;Then he had this incredible collaboration ~2 years ago with Nicholas Krgovich, which added vocals to the mix. Camiel and I actually listened to the first single of this record (I’m so happy with my little dog) a bunch on our road trip through the US.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Mixmaster Morris, Jonah Sharp, Haruomi Hosono - Quiet Logic</title>
-      <link>https://www.listenings.nl/posts/mixmaster-morris-jonah-sharp-haruomi-hosono-quiet-logic/</link>
+      <link>http://localhost:1313/archive/mixmaster-morris-jonah-sharp-haruomi-hosono-quiet-logic/</link>
       <pubDate>Sat, 04 May 2024 02:16:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/posts/mixmaster-morris-jonah-sharp-haruomi-hosono-quiet-logic/</guid>
+      <guid>http://localhost:1313/archive/mixmaster-morris-jonah-sharp-haruomi-hosono-quiet-logic/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/0034330141_71.jpg&#34; alt=&#34;Quiet Logic | Mixmaster Morris, Jonah Sharp, Haruomi Hosono | WRWTFWW  Records&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Last 2 weeks I was on a little roadtrip through Japan. Many albums, mixes and songs were played, but the greatest discovery for me during this time was Quiet Logic.&lt;/p&gt;&#xA;&lt;p&gt;Haruomi Hosono is one of my all time favorite artists, and I’ve been following the WRWTFWW records label for a while. When they announced it I had to get it. Albeit also slightly because of the gorgeous album cover.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mixmaster Morris, Jonah Sharp, Haruomi Hosono - Quiet Logic</title>
+      <link>http://localhost:1313/posts/mixmaster-morris-jonah-sharp-haruomi-hosono-quiet-logic/</link>
+      <pubDate>Sat, 04 May 2024 02:16:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/mixmaster-morris-jonah-sharp-haruomi-hosono-quiet-logic/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://f4.bcbits.com/img/0034330141_71.jpg&#34; alt=&#34;Quiet Logic | Mixmaster Morris, Jonah Sharp, Haruomi Hosono | WRWTFWW  Records&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Last 2 weeks I was on a little roadtrip through Japan. Many albums, mixes and songs were played, but the greatest discovery for me during this time was Quiet Logic.&lt;/p&gt;&#xA;&lt;p&gt;Haruomi Hosono is one of my all time favorite artists, and I’ve been following the WRWTFWW records label for a while. When they announced it I had to get it. Albeit also slightly because of the gorgeous album cover.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shinetiac - Not All Who Wander Are Lost</title>
-      <link>https://www.listenings.nl/posts/shinetiac-not-all-who-wander-are-lost/</link>
+      <link>http://localhost:1313/archive/shinetiac-not-all-who-wander-are-lost/</link>
       <pubDate>Sat, 09 Mar 2024 03:20:00 -0800</pubDate>
-      <guid>https://www.listenings.nl/posts/shinetiac-not-all-who-wander-are-lost/</guid>
+      <guid>http://localhost:1313/archive/shinetiac-not-all-who-wander-are-lost/</guid>
+      <description>&lt;h2&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a0837201457_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Lately I&amp;rsquo;ve been listening a lot to releases by the Kansas label &lt;a href=&#34;https://westmineral.bandcamp.com/&#34;&gt;West Mineral Ltd&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Initially discovered through Purelink, featured last time by me, who shared some of their inspirations in an interview.&lt;/p&gt;&#xA;&lt;p&gt;The label&amp;rsquo;s been releasing some real top-notch psychedelic, experimental, electronic music, ranging from ambient to more beat-driven energy levels. Very interesting, complex, and inspiring to my own music productions as well.&lt;/p&gt;&#xA;&lt;p&gt;The release I wanted to highlight today by Shinetiac, Not all Who Wander Are Lost, has been quite dear to me in the last 2 months. It&amp;rsquo;s hard to pinpoint what exact mood it conveys. At some points it&amp;rsquo;s deeply soothing, but never fully, sometimes feeling lost, while being kind of nostalgic or sad at the same time. It&amp;rsquo;s really quite complex when you listen deeply, a real treat for the brain, so alienating that I feel human.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shinetiac - Not All Who Wander Are Lost</title>
+      <link>http://localhost:1313/posts/shinetiac-not-all-who-wander-are-lost/</link>
+      <pubDate>Sat, 09 Mar 2024 03:20:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/shinetiac-not-all-who-wander-are-lost/</guid>
       <description>&lt;h2&gt;&lt;img src=&#34;https://f4.bcbits.com/img/a0837201457_16.jpg&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Lately I&amp;rsquo;ve been listening a lot to releases by the Kansas label &lt;a href=&#34;https://westmineral.bandcamp.com/&#34;&gt;West Mineral Ltd&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Initially discovered through Purelink, featured last time by me, who shared some of their inspirations in an interview.&lt;/p&gt;&#xA;&lt;p&gt;The label&amp;rsquo;s been releasing some real top-notch psychedelic, experimental, electronic music, ranging from ambient to more beat-driven energy levels. Very interesting, complex, and inspiring to my own music productions as well.&lt;/p&gt;&#xA;&lt;p&gt;The release I wanted to highlight today by Shinetiac, Not all Who Wander Are Lost, has been quite dear to me in the last 2 months. It&amp;rsquo;s hard to pinpoint what exact mood it conveys. At some points it&amp;rsquo;s deeply soothing, but never fully, sometimes feeling lost, while being kind of nostalgic or sad at the same time. It&amp;rsquo;s really quite complex when you listen deeply, a real treat for the brain, so alienating that I feel human.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purelink - Signs</title>
-      <link>https://www.listenings.nl/posts/purelink-signs/</link>
+      <link>http://localhost:1313/archive/purelink-signs/</link>
       <pubDate>Thu, 01 Feb 2024 02:29:00 -0800</pubDate>
-      <guid>https://www.listenings.nl/posts/purelink-signs/</guid>
+      <guid>http://localhost:1313/archive/purelink-signs/</guid>
+      <description>&lt;h2&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBDshrptDO8us7YyPNxtQA4AOfZdo12hfH8na8NyxN3LNU39OVnFJKo2lciZG1RYmwYFsLdRTkBQQ6m12xbXpOt6aOMvP5EH1i35YYXyzgqV30vDjU8hVCAWVxwLd7Jv1i5sL6ThBe8AnKiuZJCQhFCys13BWVSEA06wHrl12F7jELLIna-dftGeE4Sw5d/s700/signs.jpeg&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBDshrptDO8us7YyPNxtQA4AOfZdo12hfH8na8NyxN3LNU39OVnFJKo2lciZG1RYmwYFsLdRTkBQQ6m12xbXpOt6aOMvP5EH1i35YYXyzgqV30vDjU8hVCAWVxwLd7Jv1i5sL6ThBe8AnKiuZJCQhFCys13BWVSEA06wHrl12F7jELLIna-dftGeE4Sw5d/w320-h320/signs.jpeg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/album/3zNIvAqUBm5kRdvISQlLVH&#34;&gt;Spotify&lt;/a&gt;, &lt;a href=&#34;https://purelink.bandcamp.com/album/signs&#34;&gt;Bandcamp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Listenings will kick off with Signs by Purelink.&lt;/p&gt;&#xA;&lt;p&gt;It’s my favorite/most listened to album of last year and it would feel weird not to choose it.&lt;/p&gt;&#xA;&lt;p&gt;First time I really listened to it closely was on a flight, having the album on repeat, spacing out, half slumbering, half gazing at the clouds. Not sure how many listening cycles I had but it really stuck with me since then.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Purelink - Signs</title>
+      <link>http://localhost:1313/posts/purelink-signs/</link>
+      <pubDate>Thu, 01 Feb 2024 02:29:00 -0800</pubDate>
+      <guid>http://localhost:1313/posts/purelink-signs/</guid>
       <description>&lt;h2&gt;&lt;a href=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBDshrptDO8us7YyPNxtQA4AOfZdo12hfH8na8NyxN3LNU39OVnFJKo2lciZG1RYmwYFsLdRTkBQQ6m12xbXpOt6aOMvP5EH1i35YYXyzgqV30vDjU8hVCAWVxwLd7Jv1i5sL6ThBe8AnKiuZJCQhFCys13BWVSEA06wHrl12F7jELLIna-dftGeE4Sw5d/s700/signs.jpeg&#34;&gt;&lt;img src=&#34;https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBDshrptDO8us7YyPNxtQA4AOfZdo12hfH8na8NyxN3LNU39OVnFJKo2lciZG1RYmwYFsLdRTkBQQ6m12xbXpOt6aOMvP5EH1i35YYXyzgqV30vDjU8hVCAWVxwLd7Jv1i5sL6ThBe8AnKiuZJCQhFCys13BWVSEA06wHrl12F7jELLIna-dftGeE4Sw5d/w320-h320/signs.jpeg&#34; alt=&#34;&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/album/3zNIvAqUBm5kRdvISQlLVH&#34;&gt;Spotify&lt;/a&gt;, &lt;a href=&#34;https://purelink.bandcamp.com/album/signs&#34;&gt;Bandcamp&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Listenings will kick off with Signs by Purelink.&lt;/p&gt;&#xA;&lt;p&gt;It’s my favorite/most listened to album of last year and it would feel weird not to choose it.&lt;/p&gt;&#xA;&lt;p&gt;First time I really listened to it closely was on a flight, having the album on repeat, spacing out, half slumbering, half gazing at the clouds. Not sure how many listening cycles I had but it really stuck with me since then.&lt;/p&gt;</description>
     </item>
   </channel>
