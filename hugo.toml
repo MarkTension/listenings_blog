@@ -28,7 +28,6 @@ enableRobotsTXT = true
     mainSections = ["posts"]
     text_summary_length = 200
 
-
 [markup.goldmark.renderer]
 unsafe = true
 
