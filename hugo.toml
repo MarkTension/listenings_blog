@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Listenings'
 theme = 'ananke'
 googleAnalytics = 'G-TLSDKGX71H'
+enableRobotsTXT = true
 
 [caches]
   [caches.images]
