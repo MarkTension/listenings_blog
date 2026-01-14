@@ -2,6 +2,7 @@
 date = '2024-07-14T02:19:00-07:00'
 draft = false
 title = "Noami Sharon - Obsidian"
+description = "Noami Sharon - Obsidian: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

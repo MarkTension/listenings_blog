@@ -2,6 +2,7 @@
 date = '2025-04-06T00:56:00-07:00'
 draft = false
 title = "Florian T M Zeisig - Planet Inc"
+description = "Florian T M Zeisig - Planet Inc: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

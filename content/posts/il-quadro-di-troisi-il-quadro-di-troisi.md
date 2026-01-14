@@ -2,6 +2,7 @@
 date = '2025-02-21T10:18:00-08:00'
 draft = false
 title = "Il Quadro di Troisi - Il Quadro di Troisi"
+description = "Il Quadro di Troisi - Il Quadro di Troisi: An album recommendation on why to listen to this album back-to-back."
 
 +++
 

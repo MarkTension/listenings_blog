@@ -2,6 +2,7 @@
 date = '2025-03-08T12:59:00-08:00'
 draft = false
 title = "man oh man! - Martin Luke Brown"
+description = "man oh man! - Martin Luke Brown: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

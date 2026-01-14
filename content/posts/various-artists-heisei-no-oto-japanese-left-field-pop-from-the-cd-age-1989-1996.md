@@ -2,6 +2,7 @@
 date = '2024-04-05T03:07:00-07:00'
 draft = false
 title = "Various Artists – Heisei No Oto (Japanese Left-Field Pop From The CD Age, 1989-1996)"
+description = "Various Artists - Heisei No Oto (Japanese Left-Field Pop From The CD Age, 1989-1996): An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

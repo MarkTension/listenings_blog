@@ -2,6 +2,7 @@
 date = '2024-03-09T03:20:00-08:00'
 draft = false
 title = "Shinetiac - Not All Who Wander Are Lost"
+description = "Shinetiac - Not All Who Wander Are Lost: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

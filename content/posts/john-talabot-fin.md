@@ -2,6 +2,7 @@
 date = '2024-06-01T04:38:00-07:00'
 draft = false
 title = "John Talabot - Fin"
+description = "John Talabot - Fin: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

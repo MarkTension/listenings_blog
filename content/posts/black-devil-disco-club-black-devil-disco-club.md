@@ -2,6 +2,7 @@
 date = '2024-12-28T00:29:00-08:00'
 draft = false
 title = "Black Devil Disco Club - Black Devil Disco Club"
+description = "Black Devil Disco Club - Black Devil Disco Club: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

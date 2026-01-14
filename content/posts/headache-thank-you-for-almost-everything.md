@@ -2,6 +2,7 @@
 date = '2025-11-15T00:26:00-08:00'
 draft = false
 title = "Headache - Thank You For Almost Everything"
+description = "Headache - Thank You For Almost Everything: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

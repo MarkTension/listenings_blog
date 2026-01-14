@@ -2,6 +2,7 @@
 date = '2024-09-21T07:00:00-07:00'
 draft = false
 title = "Cleo Sol - Lost Angel"
+description = "Cleo Sol - Lost Angel: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

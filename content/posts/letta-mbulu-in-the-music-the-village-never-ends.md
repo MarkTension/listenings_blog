@@ -2,6 +2,7 @@
 date = '2025-03-21T08:37:00-07:00'
 draft = false
 title = "Letta Mbulu - In The Music The Village Never Ends"
+description = "Letta Mbulu - In The Music The Village Never Ends: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

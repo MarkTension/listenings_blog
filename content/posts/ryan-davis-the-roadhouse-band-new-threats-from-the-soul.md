@@ -2,6 +2,7 @@
 date = '2025-08-24T01:10:00-07:00'
 draft = false
 title = "Ryan Davis & the Roadhouse Band - New Threats From The Soul"
+description = "Ryan Davis & the Roadhouse Band - New Threats From The Soul: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

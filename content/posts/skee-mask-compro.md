@@ -2,6 +2,7 @@
 date = '2025-06-27T12:59:00-07:00'
 draft = false
 title = "Skee Mask - Compro"
+description = "Skee Mask - Compro: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

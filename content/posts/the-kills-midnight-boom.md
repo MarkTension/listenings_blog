@@ -2,6 +2,7 @@
 date = '2024-05-17T08:42:00-07:00'
 draft = false
 title = "The Kills - Midnight Boom"
+description = "The Kills - Midnight Boom: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

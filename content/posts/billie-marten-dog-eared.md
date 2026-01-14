@@ -2,6 +2,7 @@
 date = '2026-01-01T13:26:00-08:00'
 draft = false
 title = "Billie Marten - Dog Eared"
+description = "Billie Marten - Dog Eared: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

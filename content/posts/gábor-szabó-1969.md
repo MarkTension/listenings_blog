@@ -2,6 +2,7 @@
 date = '2025-11-25T11:03:00-08:00'
 draft = false
 title = " Gábor Szabó – 1969"
+description = "Gábor Szabó - 1969: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

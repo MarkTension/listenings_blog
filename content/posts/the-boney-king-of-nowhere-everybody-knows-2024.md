@@ -2,6 +2,7 @@
 date = '2024-02-24T00:58:00-08:00'
 draft = false
 title = "The Boney King of Nowhere – Everybody Knows (2024)"
+description = "The Boney King of Nowhere - Everybody Knows (2024): An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

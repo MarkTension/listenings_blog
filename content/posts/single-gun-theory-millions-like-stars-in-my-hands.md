@@ -2,6 +2,7 @@
 date = '2025-10-12T11:41:00-07:00'
 draft = false
 title = "Single Gun Theory - Millions, Like Stars in My Hands"
+description = "Single Gun Theory - Millions, Like Stars in My Hands: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

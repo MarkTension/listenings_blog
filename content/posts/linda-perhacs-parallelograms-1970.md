@@ -2,6 +2,7 @@
 date = '2024-02-19T02:25:00-08:00'
 draft = false
 title = "Linda Perhacs – Parallelograms (1970)"
+description = "Linda Perhacs - Parallelograms (1970): An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

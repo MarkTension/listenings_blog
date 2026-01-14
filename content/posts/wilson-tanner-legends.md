@@ -2,6 +2,7 @@
 date = '2025-06-16T10:26:00-07:00'
 draft = false
 title = "Wilson Tanner - Legends"
+description = "Wilson Tanner - Legends: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

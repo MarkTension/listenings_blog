@@ -2,6 +2,7 @@
 date = '2025-02-16T01:39:00-08:00'
 draft = false
 title = "Downstairs People - DSP"
+description = "Downstairs People - DSP: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

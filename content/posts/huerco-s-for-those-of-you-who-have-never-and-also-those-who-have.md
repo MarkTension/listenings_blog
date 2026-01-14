@@ -2,6 +2,7 @@
 date = '2025-09-27T00:39:00-07:00'
 draft = false
 title = "Huerco S. - For Those Of You Who Have Never (And Also Those Who Have)"
+description = "Huerco S. - For Those Of You Who Have Never (And Also Those Who Have): An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

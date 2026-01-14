@@ -2,6 +2,7 @@
 date = '2024-06-15T00:59:00-07:00'
 draft = false
 title = " Shabason, Krgovich, Sage"
+description = "An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

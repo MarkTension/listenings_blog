@@ -2,6 +2,7 @@
 date = '2024-05-04T02:16:00-07:00'
 draft = false
 title = "Mixmaster Morris, Jonah Sharp, Haruomi Hosono - Quiet Logic"
+description = "Mixmaster Morris, Jonah Sharp, Haruomi Hosono - Quiet Logic: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

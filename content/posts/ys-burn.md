@@ -2,6 +2,7 @@
 date = '2025-11-01T02:32:00-07:00'
 draft = false
 title = "YS - Burn"
+description = "YS - Burn: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

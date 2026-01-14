@@ -2,6 +2,7 @@
 date = '2024-12-01T02:13:00-08:00'
 draft = false
 title = "Mr YT - Brand New Day"
+description = "Mr YT - Brand New Day: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

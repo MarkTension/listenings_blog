@@ -2,6 +2,7 @@
 date = '2024-10-19T13:40:00-07:00'
 draft = false
 title = "M. Sage - The Wind of Things"
+description = "M. Sage - The Wind of Things: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

@@ -2,6 +2,7 @@
 date = '2025-07-12T08:37:00-07:00'
 draft = false
 title = "Foxwarren - 2"
+description = "Foxwarren - 2: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

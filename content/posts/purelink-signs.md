@@ -2,6 +2,7 @@
 date = '2024-02-01T02:29:00-08:00'
 draft = false
 title = "Purelink - Signs"
+description = "Purelink - Signs: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

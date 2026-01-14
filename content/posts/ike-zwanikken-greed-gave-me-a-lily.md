@@ -2,6 +2,7 @@
 date = '2025-01-12T01:59:00-08:00'
 draft = false
 title = "Ike Zwanikken - Greed Gave Me A Lily"
+description = "Ike Zwanikken - Greed Gave Me A Lily: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

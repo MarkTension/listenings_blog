@@ -2,6 +2,7 @@
 date = '2025-08-01T01:16:00-07:00'
 draft = false
 title = "Todd Terje - It's Album Time"
+description = "Todd Terje - It's Album Time: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

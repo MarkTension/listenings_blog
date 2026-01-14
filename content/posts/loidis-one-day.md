@@ -2,6 +2,7 @@
 date = '2024-09-08T00:56:00-07:00'
 draft = false
 title = "Loidis - One Day"
+description = "Loidis - One Day: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

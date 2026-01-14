@@ -2,6 +2,7 @@
 date = '2025-09-10T00:51:00-07:00'
 draft = false
 title = "   Caribou – Honey"
+description = "Caribou - Honey: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

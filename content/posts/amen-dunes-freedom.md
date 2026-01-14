@@ -2,6 +2,7 @@
 date = '2025-05-05T06:21:00-07:00'
 draft = false
 title = "Amen Dunes - Freedom"
+description = "Amen Dunes - Freedom: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

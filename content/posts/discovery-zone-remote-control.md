@@ -2,6 +2,7 @@
 date = '2024-11-16T04:06:00-08:00'
 draft = false
 title = "Discovery Zone - Remote Control"
+description = "Discovery Zone - Remote Control: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

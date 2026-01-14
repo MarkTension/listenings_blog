@@ -2,6 +2,7 @@
 date = '2025-04-21T01:21:00-07:00'
 draft = false
 title = "Saya Gray - SAYA"
+description = "Saya Gray - SAYA: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

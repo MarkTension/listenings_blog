@@ -2,6 +2,7 @@
 date = '2025-08-15T02:59:00-07:00'
 draft = false
 title = "N Kramer & Magnus Bang Olsen - Pastoral Blend"
+description = "N Kramer & Magnus Bang Olsen - Pastoral Blend: An album recommendation by Mark on why to listen to this album back-to-back."
 
 author = 'Mark'
 +++

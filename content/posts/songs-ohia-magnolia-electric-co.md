@@ -2,6 +2,7 @@
 date = '2024-11-02T14:26:00-07:00'
 draft = false
 title = "Songs: Ohia - Magnolia Electric Co."
+description = "Songs: Ohia - Magnolia Electric Co.: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

@@ -2,6 +2,7 @@
 date = '2026-01-09T22:15:00-08:00'
 draft = false
 title = "James Krivchenia - Performing Belief"
+description = "James Krivchenia - Performing Belief: An album recommendation by Berry on why to listen to this album back-to-back."
 
 author = 'Berry'
 +++

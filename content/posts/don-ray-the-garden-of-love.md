@@ -2,6 +2,7 @@
 date = '2024-08-19T02:06:00-07:00'
 draft = false
 title = "Don Ray - The Garden of Love"
+description = "Don Ray - The Garden of Love: An album recommendation by Stef on why to listen to this album back-to-back."
 
 author = 'Stef'
 +++

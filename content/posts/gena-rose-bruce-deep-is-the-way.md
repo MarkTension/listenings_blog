@@ -2,6 +2,7 @@
 date = '2024-12-14T07:43:00-08:00'
 draft = false
 title = "Gena Rose Bruce - Deep Is The Way"
+description = "Gena Rose Bruce - Deep Is The Way: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

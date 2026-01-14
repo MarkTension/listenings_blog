@@ -2,6 +2,7 @@
 date = '2024-06-29T03:12:00-07:00'
 draft = false
 title = "Françoise Hardy - La Question"
+description = "Françoise Hardy - La Question: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++

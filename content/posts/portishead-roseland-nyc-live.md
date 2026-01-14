@@ -2,6 +2,7 @@
 date = '2024-03-22T09:07:00-07:00'
 draft = false
 title = "Portishead - Roseland NYC live"
+description = "Portishead - Roseland NYC live: An album recommendation by Camiel on why to listen to this album back-to-back."
 
 author = 'Camiel'
 +++
