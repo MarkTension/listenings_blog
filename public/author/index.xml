@@ -6,8 +6,15 @@
     <description>Recent content in Author on Listenings</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Jan 2026 23:37:00 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 00:58:00 -0800</lastBuildDate>
     <atom:link href="https://www.listenings.nl/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mark</title>
+      <link>https://www.listenings.nl/author/mark/</link>
+      <pubDate>Sat, 07 Feb 2026 00:58:00 -0800</pubDate>
+      <guid>https://www.listenings.nl/author/mark/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Stef</title>
       <link>https://www.listenings.nl/author/stef/</link>
@@ -27,13 +34,6 @@
       <link>https://www.listenings.nl/author/camiel/</link>
       <pubDate>Thu, 01 Jan 2026 13:26:00 -0800</pubDate>
       <guid>https://www.listenings.nl/author/camiel/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mark</title>
-      <link>https://www.listenings.nl/author/mark/</link>
-      <pubDate>Sat, 01 Nov 2025 02:32:00 -0700</pubDate>
-      <guid>https://www.listenings.nl/author/mark/</guid>
       <description></description>
     </item>
   </channel>
