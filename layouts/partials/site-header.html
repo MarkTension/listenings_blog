@@ -6,8 +6,10 @@
     {{ $cover_dimming_class := site.Params.cover_dimming_class | compare.Default "bg-black-60" }}
     <div class="{{ $cover_dimming_class }}">
       {{ partials.Include "site-navigation.html" .}}
-      <div class="tc-l pv4 pv6-l ph3 ph4-ns">
-        <img src="/images/best_sticker_yes.png" alt="{{ .Site.Title }}" class="center db" style="max-width: 500px; width: 100%;">
+      <div class="tc-l pv1 pv1-l ph3 ph4-ns">
+        <a href="{{ "/" | relLangURL }}">
+          <img src="/images/best_sticker_dark_web.webp" alt="{{ .Site.Title }}" class="center db" style="max-width: 200px; width: 100%;">
+        </a>
         {{ with .Params.description }}
           <h2 class="fw1 f5 f3-l white-80 measure-wide-l center mt3">
             {{ . }}
@@ -18,15 +20,12 @@
   </header>
 {{ else }}
   <header>
-    <div class="pb3-m pb6-l {{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
+    <div class="pb1-m pb1-l {{ .Site.Params.background_color_class | compare.Default "bg-black" }}">
       {{ partials.Include "site-navigation.html" . }}
-      <div class="tc-l pv3 ph3 ph4-ns">
-        <img src="/images/best_sticker_yes.png" alt="{{ .Site.Title }}" class="center db" style="max-width: 500px; width: 100%;">
-        {{ with .Params.description }}
-          <h2 class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
-            {{ . }}
-          </h2>
-        {{ end }}
+      <div class="tc-l pv1 ph3 ph4-ns">
+        <a href="{{ "/" | relLangURL }}">
+          <img src="/images/best_sticker_dark_web.webp" alt="{{ .Site.Title }}" class="center db" style="max-width: 500px; width: 100%;">
+        </a>
       </div>
     </div>
   </header>
