@@ -10,11 +10,11 @@ article {
     background-color: rgb(255, 255, 255)
 }
 main {
-
+    background-color: rgb(207, 207, 207);
     /* background-color: rgb(228, 182, 156) */
     /* background-color: rgb(48, 81, 59) */
     /* background-color: rgb(105, 105, 105) */
-    background-color: rgb(71, 71, 71)
+    /* background-color: rgb(71, 71, 71) */
 
 }
 
@@ -54,9 +54,9 @@ article img {
 
 /* If images are wrapped in links, ensure the link doesn't force 100% width */
 .nested-copy-line-height a {
-  display: contents; 
+  display: contents;
 }
-/* 
+/*
 .measure-wide-l,
 .lh-copy,
 .nested-copy-line-height,
@@ -65,4 +65,16 @@ article img {
 {
   text-align: left !important;
 } */
+
+/* Make the article (containing mailchimp) match the width of posts section */
+article.measure-wide {
+  max-width: none !important;
+  width: 100%;
+}
+
+@media screen and (min-width: 30em) {
+  article.measure-wide {
+    width: 70%;
+  }
+}
 
