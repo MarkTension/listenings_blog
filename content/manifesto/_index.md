@@ -1,5 +1,6 @@
 +++
 title = "Manifesto"
+text_color = "black"
 +++
 
 ## The concept
