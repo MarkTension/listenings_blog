@@ -96,3 +96,11 @@ article.bb {
     border: 2px solid #333;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* optional shadow */
 }
+.coolbordertwo {
+    border: 1px solid #333;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* optional shadow */
+}
+
+.main {
+    padding-top: 0px;
+}
