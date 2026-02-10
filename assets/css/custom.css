@@ -78,3 +78,17 @@ article.measure-wide {
   }
 }
 
+
+/* Add borders around all articles */
+article {
+    border: 1px solid #ccc;
+    border-radius: 4px; /* optional rounded corners */
+    margin-bottom: 2em;
+}
+
+/* Or target only summary/list articles */
+article.bb {
+    border: 2px solid #333;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* optional shadow
+*/
+}
