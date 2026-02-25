@@ -34,4 +34,6 @@ unsafe = true
 [taxonomies]
   author = "author"
 
-
+[aliases]
+  mark = "/?utm_source=qr&utm_medium=sticker_mark"
+  stef = "/?utm_source=qr&utm_medium=sticker_stef"
