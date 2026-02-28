@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Author on Listenings</title><link>https://www.listenings.nl/author/</link><description>Recent content in Author on Listenings</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sat, 07 Feb 2026 00:58:00 -0800</lastBuildDate><atom:link href="https://www.listenings.nl/author/index.xml" rel="self" type="application/rss+xml"/><item><title>Mark</title><link>https://www.listenings.nl/author/mark/</link><pubDate>Sat, 07 Feb 2026 00:58:00 -0800</pubDate><guid>https://www.listenings.nl/author/mark/</guid><description/></item><item><title>Stef</title><link>https://www.listenings.nl/author/stef/</link><pubDate>Sat, 24 Jan 2026 23:37:00 -0800</pubDate><guid>https://www.listenings.nl/author/stef/</guid><description/></item><item><title>Berry</title><link>https://www.listenings.nl/author/berry/</link><pubDate>Fri, 09 Jan 2026 22:15:00 -0800</pubDate><guid>https://www.listenings.nl/author/berry/</guid><description/></item><item><title>Camiel</title><link>https://www.listenings.nl/author/camiel/</link><pubDate>Thu, 01 Jan 2026 13:26:00 -0800</pubDate><guid>https://www.listenings.nl/author/camiel/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Listenings</title>
+    <link>https://www.listenings.nl/author/</link>
+    <description>Recent content in Author on Listenings</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 20 Feb 2026 02:03:00 -0800</lastBuildDate>
+    <atom:link href="https://www.listenings.nl/author/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camiel</title>
+      <link>https://www.listenings.nl/author/camiel/</link>
+      <pubDate>Fri, 20 Feb 2026 02:03:00 -0800</pubDate>
+      <guid>https://www.listenings.nl/author/camiel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mark</title>
+      <link>https://www.listenings.nl/author/mark/</link>
+      <pubDate>Sat, 07 Feb 2026 00:58:00 -0800</pubDate>
+      <guid>https://www.listenings.nl/author/mark/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Stef</title>
+      <link>https://www.listenings.nl/author/stef/</link>
+      <pubDate>Sat, 24 Jan 2026 23:37:00 -0800</pubDate>
+      <guid>https://www.listenings.nl/author/stef/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Berry</title>
+      <link>https://www.listenings.nl/author/berry/</link>
+      <pubDate>Fri, 09 Jan 2026 22:15:00 -0800</pubDate>
+      <guid>https://www.listenings.nl/author/berry/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
