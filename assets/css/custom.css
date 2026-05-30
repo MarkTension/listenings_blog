@@ -19,6 +19,16 @@ body, p, li {
   /* font-family: 'Lora', sans-serif !important; */
 }
 
+/* Slightly smaller paragraph text in article body */
+article p,
+article li,
+.nested-copy-line-height p,
+.nested-copy-line-height li,
+.lh-copy p,
+.lh-copy li {
+  font-size: 0.9rem !important;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Alice', serif !important;
 }
