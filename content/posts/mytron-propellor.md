@@ -4,6 +4,7 @@ draft = false
 title = "Mytron - Propellor"
 description = "Mytron - Propellor: An album recommendation on why to listen to this album back-to-back."
 
+author = 'Stef'
 +++
 
 [![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9LwP1zkCZ8zRZ60yIx1FO4B_SUXnR86eW9r7JpkY6QZQD3l3-x2MQy6PRnHyrRlFjD8SY2sQIFuRix3-kwThKLzRU8vwrNYs3x3MRWagjqdBtWCiUde51PlQGmb0VzDcGEzkhcIHKmNweCbGGqo2Ff5Gpb0UMrBc8ijLsdQ_yvtS2o_eapelR5yvP5zU/s320/a1780488279_10.jpg)](https://open.spotify.com/album/2gsN8G1vWmeTWeXHj7PBa5?si=amgS74GxQmKD5rDavPZYow)
@@ -17,6 +18,6 @@ Looking up the London-based Mytron up on [Bandcamp](https://mytron.bandcamp.com/
 _Creating finely fused psychedelic journeys through groove, pausing for stopovers in rainforest  
 rhythm, intergalactic electronica and dubbed out disco._  
   
-\- Stef  
+\~ Stef  
   
 Check out the album on [Spotify](https://open.spotify.com/album/2gsN8G1vWmeTWeXHj7PBa5?si=amgS74GxQmKD5rDavPZYow) or [elsewhere](https://album.link/s/2gsN8G1vWmeTWeXHj7PBa5)
