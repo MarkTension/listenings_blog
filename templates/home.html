@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+{% block main %}
+  {% if page %}
+  <section class="intro">
+    {{ page.content | safe }}
+  </section>
+  {% endif %}
+
+  <div class="feed">
+    {% for post in posts[:site.home_cards] %}
+      {% include "_card.html" %}
+    {% endfor %}
+
+    {% if posts | length > site.home_cards %}
+    <section class="more-posts">
+      <h2>More Posts</h2>
+      <ul>
+        {% for post in posts[site.home_cards:] %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </section>
+    {% endif %}
+  </div>
+{% endblock %}

@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block main %}
+<div class="feed">
+  <h1 class="feed-title">Recommendations by {{ name }}</h1>
+  {% for post in posts %}
+    {% include "_card.html" %}
+  {% endfor %}
+</div>
+{% endblock %}

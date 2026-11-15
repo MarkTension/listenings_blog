@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block main %}
+<article class="post">
+  <header>
+    <a href="/" class="section-label">{{ site.title }}</a>
+    <h1>{{ page.title }}</h1>
+    {% if page.author %}<p class="byline"><a href="{{ page.author_url }}">{{ page.author }}</a></p>{% endif %}
+    {% if page.date %}<time datetime="{{ page.date.isoformat() }}">{{ page.date | date }}</time>{% endif %}
+  </header>
+
+  <div class="post-body">
+    {{ page.content | safe }}
+  </div>
+
+  {% if page.older or page.newer %}
+  <nav class="pager">
+    <div>
+      {% if page.older %}
+      <a href="{{ page.older.url }}"><span class="label">&larr; Previous</span><span class="title">{{ page.older.title }}</span></a>
+      {% endif %}
+    </div>
+    <div class="next">
+      {% if page.newer %}
+      <a href="{{ page.newer.url }}"><span class="label">Next &rarr;</span><span class="title">{{ page.newer.title }}</span></a>
+      {% endif %}
+    </div>
+  </nav>
+  {% endif %}
+</article>
+{% endblock %}

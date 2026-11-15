@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="{{ site.language }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% set page_title = page.title if page and page.title and url != "/" else title %}
+  <title>{% if page_title and page_title != site.title %}{{ page_title }} | {% endif %}{{ site.title }}</title>
+  {% set desc = (page.description if page and page.description) or site.description %}
+  <meta name="description" content="{{ desc }}">
+  <link rel="canonical" href="{{ url | abs }}">
+  <meta property="og:title" content="{{ page_title or site.title }}">
+  <meta property="og:description" content="{{ desc }}">
+  <meta property="og:url" content="{{ url | abs }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+  {% if page and page.image %}<meta property="og:image" content="{{ page.image }}">{% endif %}
+  <link rel="alternate" type="application/rss+xml" href="/index.xml" title="{{ site.title }}">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alice&family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+  <link rel="stylesheet" href="/style.css?v={{ css_version }}">
+  {% if site.google_analytics and not dev %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+  <script>
+    var dnt = navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack;
+    if (!(dnt == "1" || dnt == "yes")) {
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', '{{ site.google_analytics }}', { 'url_passthrough': true });
+    }
+  </script>
+  {% endif %}
+</head>
+<body>
+  <header class="site-header">
+    <a href="/" class="logo"><img src="{{ site.logo }}" alt="{{ site.title }}"></a>
+    <nav>
+      {% for item in site.menu %}
+      <a href="{{ item.url }}">{{ item.name }}</a>
+      {% endfor %}
+    </nav>
+  </header>
+
+  <main>
+    {% block main %}{% endblock %}
+  </main>
+
+  <footer class="site-footer">&copy; {{ site.title }} {{ year }}</footer>
+</body>
+</html>

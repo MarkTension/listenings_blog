@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block main %}
+<section class="authors">
+  {% for name, posts in authors %}
+  <a href="/author/{{ name | slug }}/">
+    <h2>{{ name }}</h2>
+    <span>{{ posts | length }} posts</span>
+  </a>
+  {% endfor %}
+</section>
+{% endblock %}

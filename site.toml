@@ -1,0 +1,23 @@
+# Site settings. Anything here is available in templates as {{ site.<name> }}.
+
+title = "Listenings"
+description = "Your bi-weekly music album recommendation newsletter"
+base_url = "https://www.listenings.nl/"
+language = "en-us"
+google_analytics = "G-TLSDKGX71H"   # only included in the real build, not in `serve`
+logo = "/images/listenings_logo.webp"
+
+# Navigation menu, in order.
+menu = [
+  { name = "Home",      url = "/" },
+  { name = "Manifesto", url = "/manifesto/" },
+  { name = "Authors",   url = "/author/" },
+]
+
+# How many posts get a full card on the home page; the rest are listed by title.
+home_cards = 10
+
+# Short URLs that redirect elsewhere (used by the QR stickers).
+[redirects]
+mark = "/?utm_source=qr&utm_medium=sticker_mark"
+stef = "/?utm_source=qr&utm_medium=sticker_stef"
