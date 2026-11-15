@@ -153,6 +153,9 @@ img { max-width: 100%; height: auto; }
   margin: 0 0 1rem;
 }
 
+.byline .sep { margin: 0 0.4em; color: var(--faint); }
+.card .byline time { color: var(--muted); }
+
 .summary {
   color: var(--muted);
   font-size: 0.95rem;
