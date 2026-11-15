@@ -226,9 +226,13 @@ def build(include_drafts=False, dev=False):
     write("/404.html", "404.html", title="Page not found")
     write("/index.xml", "rss.xml", posts=posts, feed_url="/index.xml")
     write("/posts/index.xml", "rss.xml", posts=posts, feed_url="/posts/index.xml")
-    all_urls = ["/", "/posts/", "/author/"] + [p.url for p in posts] + [p.url for p in by_url.values()] \
-        + [f"/author/{slugify(n)}/" for n, _ in authors]
-    write("/sitemap.xml", "sitemap.xml", urls=all_urls)
+    # sitemap: (url, last modified). Listing pages change whenever the newest post does.
+    newest = posts[0].date if posts else None
+    sitemap = [("/", newest), ("/posts/", newest), ("/author/", newest)]
+    sitemap += [(p.url, p.date) for p in posts]
+    sitemap += [(p.url, None) for p in by_url.values()]
+    sitemap += [(f"/author/{slugify(n)}/", ps[0].date) for n, ps in authors]
+    write("/sitemap.xml", "sitemap.xml", urls=sitemap)
     write("/robots.txt", "robots.txt")
 
     print(f"built {len(posts)} posts, {len(by_url)} pages, {len(authors)} authors in {time.time() - t0:.2f}s")
