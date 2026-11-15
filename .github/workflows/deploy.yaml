@@ -18,12 +18,8 @@ jobs:
       TZ: Europe/Amsterdam
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.13"
-          cache: pip
-      - run: pip install -r requirements.txt
-      - run: python build.py
+      - uses: astral-sh/setup-uv@v6
+      - run: uv run build.py
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

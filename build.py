@@ -1,10 +1,14 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# requires-python = ">=3.11"
+# dependencies = ["markdown==3.11.3", "jinja2==3.1.6"]
+# ///
 """
 Tiny static site generator for Listenings.
 
-    python build.py                 build the site into public/
-    python build.py serve           build, serve on http://localhost:8000, rebuild on changes
-    python build.py new "Artist - Album" --author Mark
+    uv run build.py                 build the site into public/
+    uv run build.py serve           build, serve on http://localhost:8000, rebuild on changes
+    uv run build.py new "Artist - Album" --author Mark
                                     create a new post in content/posts/
 
 How it works (top to bottom, that's all there is):

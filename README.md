@@ -21,7 +21,7 @@ author = 'Mark'
 Your text...
 ```
 
-Or let the script create it for you: `python build.py new "Artist - Album" --author Mark`
+Or let the script create it for you: `uv run build.py new "Artist - Album" --author Mark`
 
 - `draft = true` hides the post. So does a date in the future (until a build runs after that date).
 - The first image in the post is used as the thumbnail on the home page.
@@ -30,10 +30,11 @@ Or let the script create it for you: `python build.py new "Artist - Album" --aut
 ## Previewing locally
 
 ```
-python3 -m venv .venv && .venv/bin/pip install -r requirements.txt   # once
-.venv/bin/python build.py serve            # http://localhost:8000, rebuilds when you save
-.venv/bin/python build.py serve --drafts   # also show drafts and future posts
+uv run build.py serve            # http://localhost:8000, rebuilds when you save
+uv run build.py serve --drafts   # also show drafts and future posts
 ```
+
+The dependencies are declared at the top of `build.py`; uv installs them automatically.
 
 ## Where things are
 
