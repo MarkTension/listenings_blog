@@ -165,8 +165,8 @@ def build(include_drafts=False, dev=False):
     posts, pages = load_content(include_drafts)
 
     if OUT.exists():
-        shutil.rmtree(OUT)
-    shutil.copytree(STATIC, OUT)
+        shutil.rmtree(OUT, ignore_errors=True)  # tolerate a parallel build (e.g. `serve` running)
+    shutil.copytree(STATIC, OUT, dirs_exist_ok=True)
 
     css = (ROOT / "style.css").read_bytes()
     (OUT / "style.css").write_bytes(css)
