@@ -5,7 +5,7 @@ description = "Your bi-weekly music album recommendation newsletter"
 base_url = "https://www.listenings.nl/"
 language = "en-us"
 google_analytics = "G-TLSDKGX71H"   # only included in the real build, not in `serve`
-logo = "/images/listenings_logo.webp"
+logo = "/images/logo.svg"   # animated; regenerate with: uv run tools/make_logo.py
 
 # Navigation menu, in order.
 menu = [
