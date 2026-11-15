@@ -7,7 +7,7 @@ One-off generator for static/images/logo.svg (the animated header logo).
 
 Reads the dots from static/images/listenings_logo.webp. The top word stays static.
 The bottom word gets FRAMES variations where dots jitter to nearby grid spots;
-the SVG cycles through them at 1 frame per second with plain CSS (no JavaScript).
+the SVG cycles through them at --fps frames per second (default 2) with plain CSS (no JavaScript).
 
     uv run tools/make_logo.py            # regenerate with defaults
     uv run tools/make_logo.py --seed 7   # a different random jitter
@@ -28,6 +28,7 @@ OUT = ROOT / "static/images/logo.svg"
 
 ap = argparse.ArgumentParser()
 ap.add_argument("--frames", type=int, default=8)
+ap.add_argument("--fps", type=float, default=2)
 ap.add_argument("--seed", type=int, default=1)
 ap.add_argument("--top", type=float, default=0.03, help="chance a dot in the top row moves per frame")
 ap.add_argument("--bottom", type=float, default=0.8, help="chance a dot in the bottom row moves per frame")
@@ -84,10 +85,10 @@ def path(points):
     return "".join(f"M{x} {y}h{size}v{size}h-{size}z" for x, y in sorted(points, key=lambda p: (p[1], p[0])))
 
 n = args.frames
-frames = "\n".join(f'<path class="f" style="animation-delay:{i}s" d="{path(frame())}"/>' for i in range(n))
+frames = "\n".join(f'<path class="f" style="animation-delay:{i / args.fps:g}s" d="{path(frame())}"/>' for i in range(n))
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" fill="{color}">
 <style>
-.f{{opacity:0;animation:blink {n}s step-end infinite}}
+.f{{opacity:0;animation:blink {n / args.fps:g}s step-end infinite}}
 @keyframes blink{{0%{{opacity:1}}{100 / n:.3f}%,100%{{opacity:0}}}}
 @media (prefers-reduced-motion:reduce){{.f{{animation:none}}.f:first-of-type{{opacity:1}}}}
 </style>
