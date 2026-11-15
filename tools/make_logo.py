@@ -12,6 +12,7 @@ the SVG cycles through them at --fps frames per second (default 2) with plain CS
     uv run tools/make_logo.py            # regenerate with defaults
     uv run tools/make_logo.py --seed 7   # a different random jitter
     uv run tools/make_logo.py --top 0 --bottom 0.9   # still at the top, wild at the bottom
+    uv run tools/make_logo.py --gif ~/Desktop/listenings.gif   # also export a GIF (newsletter)
 """
 
 import argparse
@@ -33,6 +34,9 @@ ap.add_argument("--seed", type=int, default=1)
 ap.add_argument("--top", type=float, default=0.03, help="chance a dot in the top row moves per frame")
 ap.add_argument("--bottom", type=float, default=0.8, help="chance a dot in the bottom row moves per frame")
 ap.add_argument("--curve", type=float, default=2.0, help="how fast it ramps from top to bottom (1 = linear)")
+ap.add_argument("--gif", type=Path, help="also write an animated GIF of the same frames (e.g. for the newsletter)")
+ap.add_argument("--gif-width", type=int, default=600, help="GIF width in pixels")
+ap.add_argument("--gif-bg", default="#000000", help="GIF background colour")
 args = ap.parse_args()
 
 img = np.array(Image.open(SRC))
@@ -85,7 +89,8 @@ def path(points):
     return "".join(f"M{x} {y}h{size}v{size}h-{size}z" for x, y in sorted(points, key=lambda p: (p[1], p[0])))
 
 n = args.frames
-frames = "\n".join(f'<path class="f" style="animation-delay:{i / args.fps:g}s" d="{path(frame())}"/>' for i in range(n))
+frame_points = [frame() for _ in range(n)]
+frames = "\n".join(f'<path class="f" style="animation-delay:{i / args.fps:g}s" d="{path(p)}"/>' for i, p in enumerate(frame_points))
 svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" fill="{color}">
 <style>
 .f{{opacity:0;animation:blink {n / args.fps:g}s step-end infinite}}
@@ -97,4 +102,20 @@ svg = f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" fill="{c
 </svg>
 """
 OUT.write_text(svg)
+if args.gif:
+    from PIL import ImageDraw
+    pad = 40  # breathing room around the logo
+    scale = args.gif_width / (w + 2 * pad)
+    W, H = args.gif_width, round((h + 2 * pad) * scale)
+    images = []
+    for points in frame_points:
+        im = Image.new("RGB", (W, H), args.gif_bg)
+        d = ImageDraw.Draw(im)
+        for x, y in top + points:
+            x0, y0 = (x + pad) * scale, (y + pad) * scale
+            d.rectangle([round(x0), round(y0), round(x0 + size * scale) - 1, round(y0 + size * scale) - 1], fill=color)
+        images.append(im.convert("P", palette=Image.ADAPTIVE, colors=2))
+    images[0].save(args.gif, save_all=True, append_images=images[1:], duration=round(1000 / args.fps), loop=0, optimize=True)
+    print(f"wrote {args.gif}: {W}x{H}, {n} frames, {args.gif.stat().st_size} bytes")
+
 print(f"wrote {OUT.relative_to(ROOT)}: {len(top)} static dots, {len(bottom)} animated dots x {n} frames, {len(svg)} bytes")
