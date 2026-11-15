@@ -22,7 +22,10 @@
 
 * { box-sizing: border-box; }
 
-html { -webkit-text-size-adjust: 100%; }
+html {
+  -webkit-text-size-adjust: 100%;
+  background: var(--header-bg); /* shown when over-scrolling past the top/bottom */
+}
 
 body {
   margin: 0;
