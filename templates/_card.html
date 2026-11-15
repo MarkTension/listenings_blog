@@ -8,7 +8,7 @@
     <p class="byline">
       {% if post.author %}By <strong>{{ post.author }}</strong>{% endif %}
       {% if post.author and post.date %}<span class="sep">–</span>{% endif %}
-      {% if post.date %}<time datetime="{{ post.date.isoformat() }}">{{ post.date | date }}</time>{% endif %}
+      {% if post.date %}<time datetime="{{ post.date.isoformat() }}">{{ post.date | date("%m/%d/%Y") }}</time>{% endif %}
     </p>
     <p class="summary">{{ post.summary }}</p>
     <a href="{{ post.url }}" class="read-more">read more</a>
