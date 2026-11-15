@@ -11,6 +11,7 @@ the SVG cycles through them at 1 frame per second with plain CSS (no JavaScript)
 
     uv run tools/make_logo.py            # regenerate with defaults
     uv run tools/make_logo.py --seed 7   # a different random jitter
+    uv run tools/make_logo.py --top 0 --bottom 0.9   # still at the top, wild at the bottom
 """
 
 import argparse
@@ -28,7 +29,9 @@ OUT = ROOT / "static/images/logo.svg"
 ap = argparse.ArgumentParser()
 ap.add_argument("--frames", type=int, default=8)
 ap.add_argument("--seed", type=int, default=1)
-ap.add_argument("--move", type=float, default=0.45, help="chance a dot moves in a frame")
+ap.add_argument("--top", type=float, default=0.03, help="chance a dot in the top row moves per frame")
+ap.add_argument("--bottom", type=float, default=0.8, help="chance a dot in the bottom row moves per frame")
+ap.add_argument("--curve", type=float, default=2.0, help="how fast it ramps from top to bottom (1 = linear)")
 args = ap.parse_args()
 
 img = np.array(Image.open(SRC))
@@ -54,7 +57,7 @@ def to_px(c, r):
     return round(X0 + c * DX), round(Y0b + r * DY)
 
 base = [to_grid(x, y) for x, y in bottom]
-max_c = max(c for c, _ in base) + 2
+max_c = max(c for c, _ in base)
 
 rng = random.Random(args.seed)
 steps = [(-2, 0), (2, 0), (0, -1), (0, 1), (-1, -1), (1, -1), (-1, 1), (1, 1)]
@@ -63,9 +66,11 @@ def frame():
     taken, out = set(), []
     def free(c, r):  # dots are wider than a half column: keep neighbours apart
         return 0 <= r <= 7 and 0 <= c <= max_c and not ({(c - 1, r), (c, r), (c + 1, r)} & taken)
-    for c, r in rng.sample(base, len(base)):
+    # top rows first, so their (mostly still) dots keep their spot
+    for c, r in sorted(rng.sample(base, len(base)), key=lambda d: d[1]):
         spot = (c, r)
-        if rng.random() < args.move:
+        chance = args.top + (args.bottom - args.top) * (r / 7) ** args.curve
+        if rng.random() < chance:
             dc, dr = rng.choice(steps)
             if free(c + dc, r + dr):
                 spot = (c + dc, r + dr)
