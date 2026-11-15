@@ -7,10 +7,6 @@ description = "Michael Franks - Sleeping Gypsy: An album recommendation by Berry
 author = 'Berry'
 +++
 
-[  
-  
-](https://song.link/nl/i/1528519981)
-
 [](https://song.link/nl/i/1528519981)[![](https://blogger.googleusercontent.com/img/a/AVvXsEjUGofemYONwNvZ9-C83ubw7pADJJzDfeHuu1Qnegt6T5WTLDqtE2APhoUS_IQ5VIc2MbRmpvPmRxJHuvOgVgAq15-sbN2KelCpUptxCwWmLFlkhN4lXoMMe1-B7HnBoAzvroJUK9WEH64v1TcQhRVpGPTtJ9EDkenXjm4o1DHrKjIwLFyReBzUi6I9QAnO=w320-h320)](http://album.link/s/4z3AgcuD8k8rkzXjdDw1ry)
 
   
