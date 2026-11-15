@@ -154,7 +154,7 @@ img { max-width: 100%; height: auto; }
 }
 
 .byline .sep { margin: 0 0.4em; color: var(--faint); }
-.card .byline time { color: var(--muted); }
+.card .byline time { color: var(--muted); font-weight: 300; }
 
 .summary {
   color: var(--muted);
